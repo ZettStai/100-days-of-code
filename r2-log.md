@@ -43,3 +43,5 @@ I decided to spend time working on my personal website. First a basic portfolio 
 ### [R2D13](https://twitter.com/ZettStai/status/1312657030419685376?s=20)
 Working on Discord bot. Did some research and started playing around with parsing RSS feeds. I want to be able to have the bot check for new episodes of podcasts and post them in a channel.
 
+### [R2D14](https://twitter.com/ZettStai/status/1312999478534664192?s=20)
+Continued working on Discord bot. Played around with AO3 module. Working on storing data of fics in MongoDB for future reference
