@@ -45,3 +45,20 @@ Working on Discord bot. Did some research and started playing around with parsin
 
 ### [R2D14](https://twitter.com/ZettStai/status/1312999478534664192?s=20)
 Continued working on Discord bot. Played around with AO3 module. Working on storing data of fics in MongoDB for future reference
+
+### [R2D15](https://twitter.com/ZettStai/status/1314464870289477632?s=20)
+Took another mini break due to interviews this week. Had an onsite virtual interview with Apple today. Intense as 3 of them involved coding. Fingers crossed I did well. I was told a few times that coding wouldn’t be a huge deal. Hoping I did ok
+
+### [R2D16](https://twitter.com/ZettStai/status/1316617198488625152?s=20)
+Worked on discord bot. Started integrating trivia module with discord commands.
+
+### [R2D17](https://twitter.com/ZettStai/status/1318777729492287489?s=20)
+Interview today. Fastest I've probably completed the palindrome problem thanks to strings being lists and reversing strings. Worked on the trivia for the bot as well.
+
+### [R2D18](https://twitter.com/ZettStai/status/1321851656271622144?s=20) - October 22, 2020
+Got my Problem Solving (Basic) Certificate from HackerRank
+
+### [R2D19](https://twitter.com/ZettStai/status/1321851657559240705?s=20) - October 29, 2020
+Working with Python list comprehensions. List Comprehension  ||  Python Tutorial  ||  Learn Python Programming https://youtu.be/AhSvKGTh28Q 
+
+
